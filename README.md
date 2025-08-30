@@ -1,4 +1,5 @@
-## Projeto IhatePDF
+## Projeto IhatePDF 
+>by: Igor Herculano, Henrique Ernesto e Marcos Antonio 
 ## 1. Ideia e Objetivo
    A ideia principal do app é converter diversos arquivos para PDF e vice-versa, tendo uma ideia parecida com o IlovePDF, mas claramente diferente como se pode notar pelo nome do app e logicamente pela qualidade (o nosso é bem melhor)
 ## 2. Funcionalidades Implementadas
